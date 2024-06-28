@@ -6,5 +6,5 @@
 
 •	Utilizing Logistic Regression from Machine Learning algorithms in Python, I have successfully predicted the likelihood of heart disease in patients. This involved addressing a classification problem, where various parameters served as input features and the target variable was a binary variable indicating the presence or absence of heart disease.
 
-*Result*:
+#### *Result*:
 project achieves an accuracy of approximately 0.83 using a Logistic Regression model.
